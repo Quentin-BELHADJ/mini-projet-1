@@ -1,0 +1,1 @@
+npm install express passport passport-local express-session bcrypt sequelize pg pg-hstore cors dotenv
